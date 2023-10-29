@@ -11,8 +11,8 @@ import time
 import datetime
 import psycopg2
 
-API_TOKEN = '6459074825:AAGAZEcx6knna7rnv-81qO8lMA6ItHdPUHU'
-ADMIN_ID = '2091604786'
+API_TOKEN = 'TOKEN'
+ADMIN_ID = 'ID'
 
 storage = MemoryStorage()
 bot = Bot(token=API_TOKEN)

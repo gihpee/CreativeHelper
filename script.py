@@ -8,7 +8,7 @@ import time
 import datetime
 import psycopg2
 
-API_TOKEN = '6459074825:AAGAZEcx6knna7rnv-81qO8lMA6ItHdPUHU'
+API_TOKEN = 'TOKEN'
 bot = Bot(token=API_TOKEN)
 
 
